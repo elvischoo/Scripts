@@ -1,0 +1,1 @@
+Those scrips are used to the TamperMonkey or ViolentMonkey int the browers.
